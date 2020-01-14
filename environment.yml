@@ -1,0 +1,13 @@
+name: base-environment
+channels:
+  - conda-forge
+dependencies: 
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - IPython
+  - ipywidgets
+  - csv
+  - time
