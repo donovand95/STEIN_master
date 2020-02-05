@@ -9,6 +9,8 @@ dependencies:
   - matplotlib
   - IPython
   - ipywidgets
-  - csv
+  - pip
   - time
-  - random
+   pip:
+    - csv
+    - random
