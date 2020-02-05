@@ -11,6 +11,6 @@ dependencies:
   - ipywidgets
   - pip
   - time
-   pip:
+  - pip:
     - csv
     - random
